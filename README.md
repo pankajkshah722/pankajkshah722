@@ -1,10 +1,10 @@
 ### Hi there, I'm Pankaj Kumar Shah 👋 
 
-## I'm a Computer Science Engineering student at the University of Debrecen.
+## Computer Science Engineering student at the University of Debrecen.
 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I am seeking an opportunity to gain professional experience in the software development field.
+- 👯 seeking an opportunity to gain professional experience in the software development field.
 - 🥅 2022 Goals: Learn about Machine learning and Artificial Intelligence
 - ⚡ Fun fact: I love cycling and eating food😂😂
 - 👯 I can speak in Hindi, English, Nepali and basic understanding of Hungarian.
