@@ -15,14 +15,13 @@
 <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>[Linkedin](https://www.linkedin.com/in/pankajkshah722/)
 
 ### Languages and Tools: 
-
+## 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  width="40px" height="40px" alt="Visual Studio Code"/>]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40px" height="40px" alt="HTML5"/>]
 [<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40px" height="40px" alt="CSS3"/>]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40px" height="40px"  alt="JavaScript"/>]
-[<img alt="SQL" width="30px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40px" height="40px" alt="MySQL logo"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"" width="40px" height="40px" alt="MySQL logo"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40px" height="40px" alt="MySQL logo"/>
 
 
 
