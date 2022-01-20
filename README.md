@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.bing.com/images/search?view=detailV2&ccid=HD7Vmz7u&id=93E9CF8A0212BBDF012850C982BBD247B28A5AF0&thid=OIP.HD7Vmz7uSv1C401zOwPVWwHaHa&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1c3ed59b3eee4afd42e34d733b03d55b%3frik%3d8FqKskfSu4LJUA%26riu%3dhttp%253a%252f%252fgethiredrdh.com%252fwp-content%252fuploads%252f2012%252f01%252flinkedin.gif%26ehk%3dPaeE6XvnnDVYSAOheN56jHlzWQi6epkEHstkzsCTYsA%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=900&expw=900&q=linkedin+image&simid=608010422625963880&FORM=IRPRST&ck=2A64C579E6EAE2D72733CABBE4913C74&selectedIndex=0" />][linkedin](https://www.linkedin.com/in/pankajkshah722/)
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="" />][linkedin](https://www.linkedin.com/in/pankajkshah722/)
+![Linkedin](https://www.bing.com/images/search?view=detailV2&ccid=HD7Vmz7u&id=93E9CF8A0212BBDF012850C982BBD247B28A5AF0&thid=OIP.HD7Vmz7uSv1C401zOwPVWwHaHa&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1c3ed59b3eee4afd42e34d733b03d55b%3frik%3d8FqKskfSu4LJUA%26riu%3dhttp%253a%252f%252fgethiredrdh.com%252fwp-content%252fuploads%252f2012%252f01%252flinkedin.gif%26ehk%3dPaeE6XvnnDVYSAOheN56jHlzWQi6epkEHstkzsCTYsA%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=900&expw=900&q=linkedin+image&simid=608010422625963880&FORM=IRPRST&ck=2A64C579E6EAE2D72733CABBE4913C74&selectedIndex=0)
 
 <br />
 
