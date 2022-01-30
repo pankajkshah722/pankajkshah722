@@ -13,7 +13,7 @@
 
 ### Contact me
 
-<img src="https://avatars3.githubusercontent.com/u/357098" width="40" height="40" alt="linkedin logo"/>[Linkedin](https://www.linkedin.com/in/pankajkshah722/)
+<img src="https://avatars3.githubusercontent.com/u/357098" width="20" height="20" alt="linkedin logo"/>[Linkedin](https://www.linkedin.com/in/pankajkshah722/)
 
 ### Languages and Tools I have been working on: 
 
