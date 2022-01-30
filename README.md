@@ -7,7 +7,7 @@
 - 👯 seeking an opportunity to gain professional experience in the software development field.
 - 🥅 2022 Goals: Learn about Machine learning and Artificial Intelligence
 - ⚡ Fun fact: I love cycling and eating food😂😂
-- 👯 I can speak in Hindi, English, Nepali and basic understanding of Hungarian.
+- 👯 I am fluent in Hindi, English, Nepali, and basic understanding of the Hungarian language..
 
 <br />
 
