@@ -3,7 +3,7 @@
 ## Computer Science Engineering student at the University of Debrecen.
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Web Development and related technologies.
 - 👯 seeking an opportunity to gain professional experience in the software development field.
 - 🥅 2022 Goals: Learn about Machine learning and Artificial Intelligence
 - ⚡ Fun fact: I love cycling and eating food😂😂
