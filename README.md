@@ -14,8 +14,8 @@
 ## Contact me
 I am open to suggestion and collaboration.
 
-<img src="https://avatars3.githubusercontent.com/u/357098" width="20" height="20" alt="linkedin logo"/>[Linkedin](https://www.linkedin.com/in/pankajkshah722/)
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50" height="20" alt="linkedin logo"/>[E-Mail](mailto:Pankajkshah722@gmail.com)
+<img src="https://avatars3.githubusercontent.com/u/357098" width="20" height="20" alt="linkedin logo"/>[ Linkedin ](https://www.linkedin.com/in/pankajkshah722/)
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50" height="20" alt="linkedin logo"/>[ E-Mail](mailto:Pankajkshah722@gmail.com)
 
 
 <br>
