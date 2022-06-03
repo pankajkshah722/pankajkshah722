@@ -1,4 +1,6 @@
-### Hi there, I'm Pankaj Kumar Shah 👋 
+<img src="assets\github-hero.png" alt="profile banner" width="100%" height="auto"/>
+
+### _Hi there, I'm Pankaj Kumar Shah_ 👋 
 
 ## Computer Science Engineering student at the University of Debrecen.
 
