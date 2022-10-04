@@ -1,4 +1,5 @@
 <img src="assets\github-hero.png" alt="profile banner" width="100%" height="auto"/>
+<p><img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" /></p>
 
 ### _Hi there, I'm Pankaj Kumar Shah_ 👋 
 
