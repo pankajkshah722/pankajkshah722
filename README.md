@@ -31,7 +31,7 @@ I am open to suggestion and collaboration.
 ![github stats](https://github-readme-stats.vercel.app/api?username=Iampankj&show_icons=true&line_height=30) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iampankj&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iampankj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkshah722&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
