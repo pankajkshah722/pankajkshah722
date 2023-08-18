@@ -3,19 +3,19 @@
 
 ### _Hi there, I'm Pankaj Kumar Shah_ 👋 
 
-## Computer Science Engineering student at the University of Debrecen.
+## A recent Computer Science Engineering graduate from the University of Debrecen.
 
 
-- 🌱 I’m currently learning Web Development 🧑‍💻 and related technologies ⚙️.
-- 👯 seeking an opportunity to gain professional experience in the software development field.
-- 🥅 2023 Goals: Learn about Machine learning and Artificial Intelligence
-- ⚡ Fun fact: I love cycling 🚴 and eating food 🍕😂.
-- 👯 I am fluent in Hindi, English, Nepali, and basic understanding of the Hungarian language..
+- 🌱 I’m currently learning IT Support 🧑‍💻 and Cybersecurity related technologies ⚙️.
+- 👯 seeking an opportunity to gain professional experience in IT Support and Cybersecurity.
+- 🥅 2023 Goals: Complete the Google Cybersecurity Professional Certification course and get the CompTIA Security+ certification
+- ⚡ Fun fact: I love cycling 🚴 and eating & cooking food 🍕😂.
+- 👯 I am fluent in Hindi, English, Nepali, and a basic understanding of the Hungarian language.
 
 <br>
 
 ## Contact me
-I am open to suggestion and collaboration.
+I am open to suggestions and collaboration.
 
 <img src="https://avatars3.githubusercontent.com/u/357098" width="20" height="20" alt="linkedin logo"/>[ Linkedin ](https://www.linkedin.com/in/pankajkshah722/)
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50" height="20" alt="linkedin logo"/>[ E-Mail](mailto:Pankajkshah722@gmail.com)
@@ -37,5 +37,5 @@ I am open to suggestion and collaboration.
 <br />
 <br />
 
-### I am really glad to see you here !
+### I am delighted to see you here!
 Your are the [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Iampankj.visitor-badge)](https://github.com/Iampankj) since i added this to the profile <br>
