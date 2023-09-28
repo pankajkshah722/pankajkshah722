@@ -10,7 +10,7 @@
 - 👯 seeking an opportunity to gain professional experience in IT Support and Cybersecurity.
 - 🥅 2023 Goals: Complete the Google Cybersecurity Professional Certification course and get the CompTIA Security+ certification
 - ⚡ Fun fact: I love cycling 🚴 and eating & cooking food 🍕😂.
-- 👯 I am fluent in Hindi, English, Nepali, and a basic understanding of the Hungarian language.
+- 👯 I am fluent in English, Hindi, Nepali, basic understanding of the Hungarian language, and Currently learning German.
 
 <br>
 
@@ -33,7 +33,7 @@ I am open to suggestions and collaboration.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkshah722&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Pankajkshah722.png" alt="TryHackMe">
 <br />
 <br />
 
