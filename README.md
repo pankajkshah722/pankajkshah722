@@ -10,7 +10,7 @@
 - 👯 seeking an opportunity to gain professional experience in IT Support and Cybersecurity.
 - 🥅 2023 Goals: Complete the Google Cybersecurity Professional Certification course and get the CompTIA Security+ certification
 - ⚡ Fun fact: I love cycling 🚴 and eating & cooking food 🍕😂.
-- 👯 I am fluent in English, Hindi, Nepali, basic understanding of the Hungarian language, and Currently learning German.
+- 👯 I am fluent in English, Hindi, and Nepali, basic understanding of the Hungarian language, and Currently learning German.
 
 <br>
 
